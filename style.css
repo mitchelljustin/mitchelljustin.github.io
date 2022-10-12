@@ -1,0 +1,16 @@
+
+body {
+    font-family: Gelasio, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-weight: 800;
+}
+
+article {
+    margin-top: 100px;
+    max-width: 800px;
+}
