@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body, h1, h2, h3, p {
+    font-family: Gelasio, Georgia, serif;
+}
+
+a:hover {
+    font-weight: normal;
+}
