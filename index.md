@@ -1,8 +1,13 @@
 ---
-
 title: Mitchell Justin van der Hoeff
 layout: default
 ---
+
+# Posts
+
+{% for post in site.posts %}
+  - [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 # About Me
 
